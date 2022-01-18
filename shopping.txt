@@ -1,5 +1,6 @@
 Shopping List
 
+oranges
 apples
 bananas
 yogurt
