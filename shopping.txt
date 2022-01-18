@@ -1,9 +1,9 @@
 Shopping List
 
-apples
-bananas
+red apples
+6 bananas
 mangos
-yogurt
+vannila yogurt
 milk
 wheat bread
 cereal
