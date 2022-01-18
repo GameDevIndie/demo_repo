@@ -2,6 +2,7 @@ Shopping List
 
 apples
 bananas
+mangos
 yogurt
 milk
 bread
