@@ -5,7 +5,7 @@ bananas
 mangos
 yogurt
 milk
-bread
+wheat bread
 cereal
 12 eggs
 bacon
@@ -19,3 +19,5 @@ ice cream
 sugar
 flour
 butter
+coffee
+tomatoes
